@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a0df0146.chunk.css",
-    "main.js": "/portfolio/static/js/main.c7e0ecde.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.c7e0ecde.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.b6f0967d.chunk.css",
+    "main.js": "/portfolio/static/js/main.03772ff6.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.03772ff6.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
-    "static/js/2.b1106c00.chunk.js": "/portfolio/static/js/2.b1106c00.chunk.js",
-    "static/js/2.b1106c00.chunk.js.map": "/portfolio/static/js/2.b1106c00.chunk.js.map",
+    "static/js/2.ef58dc52.chunk.js": "/portfolio/static/js/2.ef58dc52.chunk.js",
+    "static/js/2.ef58dc52.chunk.js.map": "/portfolio/static/js/2.ef58dc52.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.718b09176925c730ac2c4adebbf8b6d1.js": "/portfolio/precache-manifest.718b09176925c730ac2c4adebbf8b6d1.js",
+    "precache-manifest.4cc2fe1bce5a9ce57cb9fb2741c094f7.js": "/portfolio/precache-manifest.4cc2fe1bce5a9ce57cb9fb2741c094f7.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.a0df0146.chunk.css.map": "/portfolio/static/css/main.a0df0146.chunk.css.map",
-    "static/js/2.b1106c00.chunk.js.LICENSE.txt": "/portfolio/static/js/2.b1106c00.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/portfolio/static/media/homesplash.498d2848.png"
+    "static/css/main.b6f0967d.chunk.css.map": "/portfolio/static/css/main.b6f0967d.chunk.css.map",
+    "static/js/2.ef58dc52.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ef58dc52.chunk.js.LICENSE.txt",
+    "static/media/festival.jpg": "/portfolio/static/media/festival.3847fd77.jpg",
+    "static/media/App.css": "/portfolio/static/media/homesplash.498d2848.png",
+    "static/media/server.jpg": "/portfolio/static/media/server.429dbb08.jpg",
+    "static/media/tictactoe.jpg": "/portfolio/static/media/tictactoe.4d975c18.jpg",
+    "static/media/todo.jpg": "/portfolio/static/media/todo.3676de5c.jpg",
+    "static/media/truck.jpg": "/portfolio/static/media/truck.d2fa85a5.jpg",
+    "static/media/youtube.jpg": "/portfolio/static/media/youtube.913a3abe.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
-    "static/js/2.b1106c00.chunk.js",
-    "static/css/main.a0df0146.chunk.css",
-    "static/js/main.c7e0ecde.chunk.js"
+    "static/js/2.ef58dc52.chunk.js",
+    "static/css/main.b6f0967d.chunk.css",
+    "static/js/main.03772ff6.chunk.js"
   ]
 }
